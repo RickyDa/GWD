@@ -1,4 +1,5 @@
-# GWD - Global Wheat Detection
+
+![](https://pbs.twimg.com/media/EXRLe2gXkAEmD5R.jpg)
 
 My attempt at the GWD Competition, placed **405th** on the leaderboards
 
